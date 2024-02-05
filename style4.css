@@ -1,0 +1,44 @@
+*{
+    margin: 0%;
+    padding:0%;
+}
+body{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    height:100vh;
+}
+.upper{
+    display: flex;
+    justify-content: start;
+}
+.box{
+    background-color: brown;
+    height:10rem;
+    width:10rem;
+    margin:1%;
+    padding:1%;
+   }
+.lower{
+        height: 100vh;
+        display:flex;
+        justify-content:space-between;
+        align-items:center;
+}
+.circle{
+    background-color:yellow;
+    height:250px;
+    width:250px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+}
+.footer{
+    display:flex;
+    justify-content:end;
+    align-items: end;
+}
+
+
+  
+  

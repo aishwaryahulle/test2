@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding:0%;
+}
+.box{
+    background-color: brown;
+    height:10rem;
+    width:10rem;
+    margin:1%;
+    padding:1%;
+   }
+  body{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    height:100vh;
+}
+.upper{
+    display: flex;
+    justify-content: start;
+}
+.lower{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    height: 100vh;
+}
+.footer{
+    display:flex;
+    justify-content:end;
+    align-items: end;
+}
+
+
+  
+  
